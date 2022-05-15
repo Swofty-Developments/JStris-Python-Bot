@@ -3,11 +3,5 @@ This repository contains code that calculates the optimal placement of
 tetrominos in Tetris and generates the appropriate keystrokes to send a
 falling tetromino into that optimal position.
 
-## Contributing
-Fork this repository and clone it to your own computer. Send me a pull request
-with interesting thoughts, ideas, or suggestions.
-Please follow the [PEP8](http://pep8.org) standard if you are contributing
-to the codebase.
-
-## Creators
-Alvin Lin (omgimanerd)
+Gets around 6 PPS
+![image](https://user-images.githubusercontent.com/75875764/168460946-7273030c-650f-4eba-be2c-d335fb7e33b8.png)
